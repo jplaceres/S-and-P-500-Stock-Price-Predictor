@@ -1,0 +1,11 @@
+# Ignore Specific File
+notes.ipynb
+
+
+# Ignore File Type
+*.csv
+*.xls
+*.xlsx
+*.doc
+*.docx
+*.pdf
