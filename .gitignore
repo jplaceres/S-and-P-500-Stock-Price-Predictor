@@ -1,11 +1,14 @@
 # Ignore Specific File
-notes.ipynb
+*_.ipynb
 
 
 # Ignore File Type
+*.env
 *.csv
 *.xls
 *.xlsx
 *.doc
 *.docx
 *.pdf
+*.json
+*.py
